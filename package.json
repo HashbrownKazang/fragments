@@ -1,6 +1,6 @@
 {
-  "name": "e2b-fragments",
-  "version": "0.1.0",
+  "name": "spunt-coder",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",

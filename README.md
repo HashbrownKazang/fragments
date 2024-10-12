@@ -1,4 +1,6 @@
-# Fragments by E2B
+# spunt-coder
+
+Forked from Fragments by E2B and then remixxed
 
 This is an open source version of [Anthropic's Claude Artifacts](https://www.anthropic.com/news/claude-3-5-sonnet), Vercel [v0](https://v0.dev) and [GPT Engineer](https://gptengineer.app).
 
